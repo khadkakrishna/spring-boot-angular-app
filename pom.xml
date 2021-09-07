@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.development</groupId>
 	<artifactId>SpringAngularApplication</artifactId>
-	<sversion>0.0.1-SNAPSHOT</sversion>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>SpringAngularApplication</name>
 	<description>Simple project using Spring Boot with angular</description>
 	<properties>
