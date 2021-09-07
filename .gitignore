@@ -41,3 +41,5 @@ mvnw.cmd
 
 ### Angular related ###
 src/main/resources/AngularApplication/node_modules
+src/main/resources/static/
+src/main/resources/templates/
