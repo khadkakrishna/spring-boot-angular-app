@@ -37,3 +37,7 @@ build/
 .mvn
 mvnw
 mvnw.cmd
+
+
+### Angular related ###
+src/main/resources/AngularApplication/node_modules
